@@ -11,13 +11,9 @@ To build this project on macOS, you need to have the following tools installed:
 
 Follow these steps to compile and run the Minesweeper game:
 
-1. **Login to SSH Server with GUI**:
+1. **Configure the project with qmake**: 
 ```bash
-ssh -X username@cs3307.gaul.csd.uwo.ca
-```
-2. **Configure the project with qmake**: 
-```bash
-qmake6
+qmake
 ```
 3. **Build the project**:
 ```bash
