@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/8.svg.png</file>
+        <file>icons/7.svg.png</file>
+        <file>icons/6.svg.png</file>
+        <file>icons/5.svg.png</file>
+        <file>icons/4.svg.png</file>
+        <file>icons/3.svg.png</file>
+        <file>icons/2.svg.png</file>
+        <file>icons/1.svg.png</file>
+        <file>icons/flag.svg.png</file>
+        <file>icons/0.svg.png</file>
+        <file>icons/mine.png</file>
+        <file>icons/dead.png</file>
+        <file>icons/alive.png</file>
+        <file>icons/question.svg.png</file>
+    </qresource>
+</RCC>
